@@ -1,4 +1,4 @@
-python:3.10.0-slim
+python:3.8.19-slim
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
