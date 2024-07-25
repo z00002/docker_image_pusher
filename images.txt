@@ -4,4 +4,4 @@ python:3.10.0@sha256:57eb039aaa74674261441b298250784e6ae4780382adb11decfb454339f
 registry.cn-hangzhou.aliyuncs.com/xiaobai_0913/python_arm:3.10.0
 #xhofe/alist:latest
 #支持指定架构
-#--platform=linux/arm64/v8
+#--platform=linux/arm64/v8 xhofe/alist
