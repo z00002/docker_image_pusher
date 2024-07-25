@@ -1,7 +1,7 @@
-#python:3.10.0
+python:3.10.0
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaobai_0913/python_arm:3.10.0
+--platform=linux_arm64_v8
