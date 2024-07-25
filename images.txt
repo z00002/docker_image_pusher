@@ -1,7 +1,9 @@
-python:3.10.0@sha256:57eb039aaa74674261441b298250784e6ae4780382adb11decfb454339f5ce52
+#镜像名称
+python:3.10.0
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-registry.cn-hangzhou.aliyuncs.com/xiaobai_0913/python_arm:3.10.0
 #xhofe/alist:latest
+
 #支持指定架构
-#--platform=linux/arm64/v8 xhofe/alist
+--platform=linux/arm64/v8
