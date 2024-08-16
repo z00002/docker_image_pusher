@@ -1,5 +1,5 @@
 #镜像名称
-mysql:8.0.23
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
