@@ -1,5 +1,5 @@
 #镜像名称
-postgis/postgis:13-3.1
+mysql/mysql-server:8.0.23@sha256:77234f356057be9326e30a39cf060bb83e04d94211b4dbfe67887639e1f3561e
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
