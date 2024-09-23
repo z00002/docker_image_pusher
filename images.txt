@@ -6,4 +6,4 @@
 #xhofe/alist:latest
 
 #支持指定架构
---platform=linux/arm64/v8 mysql:8.0.29
+--platform=linux/amd64 mysql:8.0.23
